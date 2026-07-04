@@ -106,8 +106,8 @@ Interview session state (current question, job role/level, answered-question his
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/alaajomah/AI-Career-Coach-Multi-agent-system.git
-cd AI-Career-Coach-Multi-agent-system
+git clone https://github.com/maryamajarmeh/multi-agent-career-advisor.git
+cd multi-agent-career-advisor
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
