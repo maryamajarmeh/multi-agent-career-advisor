@@ -62,7 +62,7 @@ Interview session state (current question, job role/level, answered-question his
 ├── coordinator.py              # Routing + interview-loop orchestration
 ├── interview_state.py          # Per-user interview session store
 ├── memory.py                   # User memory (career goal, history)
-├── logging_config.py           # Structured logging setup
+├── logger.py           # Structured logging setup
 ├── traces.py                   # Per-request execution trace saving
 ├── metrics.py                  # Prometheus counters/histograms
 ├── ui_components.py            # Turns structured agent responses
