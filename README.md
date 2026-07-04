@@ -114,8 +114,8 @@ You can run this project either locally with a virtualenv, or with Docker Compos
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/alaajomah/AI-Career-Coach-Multi-agent-system.git
-cd AI-Career-Coach-Multi-agent-system
+git clone https://github.com/maryamajarmeh/multi-agent-career-advisor.git
+cd multi-agent-career-advisor
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -148,7 +148,7 @@ streamlit run streamlit.py
 
 Then open the URL Streamlit prints (typically `http://localhost:8501`).
 
-![Streamlit Demo](UI.png)
+![Streamlit Demo](Streamlit_Demo.jpeg)
 
 ### Option B — Docker Compose
 
