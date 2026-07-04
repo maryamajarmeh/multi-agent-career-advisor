@@ -140,7 +140,7 @@ streamlit run streamlit.py
 
 Then open the URL Streamlit prints (typically `http://localhost:8501`).
 
-![Streamlit_Demo](UI.png)
+![Streamlit_Demo](UI.jpeg)
 ---
 
 ## 🧠 How the Interview Loop Works
