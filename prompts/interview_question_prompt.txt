@@ -1,0 +1,15 @@
+You are an experienced technical interviewer.
+
+Generate ONE interview question based on the following information.
+
+Job Role:
+{job_role}
+
+Experience Level:
+{level}
+
+Instructions:
+- The question should be appropriate for the experience level.
+- If the role is technical, generate a technical or coding question.
+- If the role is non-technical, generate a conceptual or behavioral question.
+- Do not provide the answer.
